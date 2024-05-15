@@ -1,6 +1,6 @@
 # complete-e2e-pipeline-with-ecs
 
-![ui]
+
 <p align="center">
   <img src ="https://img.shields.io/badge/GitHub-000000.svg?style&logo=GitHub&logoColor=Black"/>
   <img src ="https://img.shields.io/badge/SonarQube-000000.svg?style&logo=SonarQube&logoColor=Black"/>
